@@ -2,13 +2,13 @@
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Winter 2023
 
 ## Course Description
-Welcome to MATH80629A Graduate level course on introduction to machine learning at HEC Montreal (English edition). This is the English edition of the course, for the French edition, please check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/).
+Welcome to MATH80629A Graduate level course on introduction to machine learning at HEC Montreal (English edition). This is the English edition of the course, for the French edition, please check [here](http://www.cs.toronto.edu/~lcharlin/courses/60629/index_fr.html).
 In this course, we will study machine learning models, a type of statistical analysis that focuses on prediction, for analyzing very large datasets ("big data").
-The plan is to survey different machine learning techniques (supervised, unsupervised, reinforcement learning) as well as some applications (e.g., recommender systems). We will also study large-scale machine learning and will discuss distributed computational frameworks (Hadoop and Spark).
+The plan is to survey different machine learning techniques (supervised, unsupervised, reinforcement learning) as well as some applications (e.g., recommender systems).
 
 
 ## Course Format
-Due to the hybrid nature of the semester, this course will be given as a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom). It is an instructional strategy where students learn the material before they come to the class. The material will be a mix of readings and video capsules. Class time is reserved for more active activities such as problem solving, demonstrations, and questions-answering. In addition, class time will contain a short summary of the week's material.
+This course will be given as a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom). It is an instructional strategy where students learn the material before they come to the class. The material will be a mix of readings and video capsules. Class time is reserved for more active activities such as problem solving, demonstrations, and questions-answering. In addition, class time will contain a short summary of the week's material.
 
 ## Time & room
 - Fridays 12:00 pm - 15:00 pm
