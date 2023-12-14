@@ -23,7 +23,7 @@ For the programming assignments and the project, Python programming will be assu
 
 - [Data Camp](https://www.datacamp.com/onboarding/create_account?track_id=17): Complete Chapters 1, 2, 3, 4 of [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) (sign in using this [link]([https://app.datacamp.com/learn/courses/intro-to-python-for-data-science](https://www.datacamp.com/groups/shared_links/a539e2ccc38f6eab2f6627b69490076c48125bef1c0a806fe0e2520fa60f091d) with your @hec.ca email address to access Chapters 2-4). **This option is highly recommended**
 - [HEC CAM]() offers introductory python courses in September (currently only in French). Register at [CAM registration](https://inscription.hec.ca/cams/).
-- [Fall 2018 tutorial](http://www.cs.toronto.edu/~lcharlin/courses/80-629/tutorial_f18.html). This will give you an idea of the level that is expected for this course.  
+- [Fall 2018 tutorial]([http://www.cs.toronto.edu/~lcharlin/courses/80-629/tutorial_f18.html](http://www.cs.toronto.edu/~lcharlin/courses/60629/tutorial_f18.html). This will give you an idea of the level that is expected for this course.  
 
 Further a machine-learning tutorial using python will be provided on [week #4](lectures.md).
 
