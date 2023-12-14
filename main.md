@@ -39,7 +39,7 @@ Your final score for the course will be computed using the following weights:
 
 ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy in case of fraud or plagiarism. If an infraction is found, the professor is required to report to the director of the department. An administrative procedure is then automatically triggered with the following consequences: the offense is noted in your file, and a sanction is decided (which can be serious and go to dismissal in case of recidivism). It is important that you do the work yourself!
 
-## Reading
+## References
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Second Edition Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome, 2009 [ESL]
 2. [Deep Learning](http://deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio and, Aaron Courville. [DL]
 3. [Reinforcement Learning : An Introduction Hardcover](http://incompleteideas.net/book/the-book-2nd.html). Richard S. Sutton, Andrew G. Barto. A Bradford Book. 2nd edition [RL-Sutton-Barto]
@@ -51,4 +51,4 @@ ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy i
 9. [Advanced Analytics with Spark](https://www.oreilly.com/library/view/advanced-analytics-with/9781491972946/). O'Reilly. Second Edition. 2017
 
 ## Acknowledgement
-I thank [prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/courses/80-629/) for sharing his slides and video capsules with me. The majority of the materials of this course are based on the previous editions that have been thaugh by him. 
+I thank [Prof. Laurent Charlin]([http://www.cs.toronto.edu/~lcharlin/courses/80-629/](http://www.cs.toronto.edu/~lcharlin/courses/60629/) for sharing his slides and video capsules with me. The majority of the materials of this course are based on the previous editions that have been thaugh by him and [Prof. Golnoosh Farnadi](https://gfarnadi.github.io/).
