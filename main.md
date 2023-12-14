@@ -31,10 +31,11 @@ Further a machine-learning tutorial using python will be provided on [week #4](l
 Your final score for the course will be computed using the following weights:
 
 - [Homework](homework.md) (20%)
-- [Capsule quizes](homework.md)  (10%)
+- [Capsule quizzes](homework.md)  (10%)
 - [Project](project.md) (30%)
 - [Project presentation](project.md) (10%)
 - Final Exam (30%)
+- Participation bonus (5%)
 
 ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy in case of fraud or plagiarism. If an infraction is found, the professor is required to report to the director of the department. An administrative procedure is then automatically triggered with the following consequences: the offense is noted in your file, and a sanction is decided (which can be serious and go to dismissal in case of recidivism). It is important that you do the work yourself!
 
