@@ -1,2 +1,1 @@
-# gfarnadi.github.io
-My personal webpage
+Welcome to the course
