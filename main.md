@@ -51,4 +51,4 @@ ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy i
 9. [Advanced Analytics with Spark](https://www.oreilly.com/library/view/advanced-analytics-with/9781491972946/). O'Reilly. Second Edition. 2017
 
 ## Acknowledgement
-I thank [Prof. Laurent Charlin]([http://www.cs.toronto.edu/~lcharlin/courses/80-629/](http://www.cs.toronto.edu/~lcharlin/courses/60629/) for sharing his slides and video capsules with me. The majority of the materials of this course are based on the previous editions that have been thaugh by him and [Prof. Golnoosh Farnadi](https://gfarnadi.github.io/).
+I thank [Prof. Laurent Charlin]([http://www.cs.toronto.edu/~lcharlin/courses/80-629/)(http://www.cs.toronto.edu/~lcharlin/courses/60629/) for sharing his slides and video capsules with me. The majority of the materials of this course are based on the previous editions that have been thaugh by him and [Prof. Golnoosh Farnadi](https://gfarnadi.github.io/).
