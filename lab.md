@@ -8,7 +8,7 @@ If you want to create a machine learning model but you don’t have a machine th
 
 ### Getting Started
 To start working with Colab you first need to log in to your google account, then go to this [link](https://colab.research.google.com).
-If you are a new Colab user, you can check [here](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#scrollTo=GJBs_flRovLc) to learn more.
+If you are a new Colab user, you can check [here](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#scrollTo=GJBs_flRovLc) or [Google Colab Tutorial for Data Scientists](https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists) to learn more.
 
 ### Schedule 
 ___
