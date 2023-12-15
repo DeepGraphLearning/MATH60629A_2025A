@@ -1,5 +1,5 @@
 | [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Lab](lab.md) | [Project](project.md) | [Office hour](office_hr.md)
-# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Winter 2023
+# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2024
 
 ## Course Description
 Welcome to MATH80629A Graduate level course on introduction to machine learning at HEC Montreal (English edition). This is the English edition of the course, for the French edition, please check [here](http://www.cs.toronto.edu/~lcharlin/courses/60629/index_fr.html).
