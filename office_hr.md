@@ -2,7 +2,7 @@
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Winter 2023
 
 ## Piazza
-We will be using Piazza for class discussions. The system is designed so that you can get help quickly and efficiently from your classmates and myself. Rather than emailing your questions, I invite you to post them on Piazza. I will check your questions regularly and respond to them. You can post private questions to me or post your questions to the class anonymously (in this case your identity will only be visible to me).
+We will be using [Piazza](https://piazza.com/) for class discussions. The system is designed so that you can get help quickly and efficiently from your classmates and myself. Rather than emailing your questions, I invite you to post them on Piazza. I will check your questions regularly and respond to them. You can post private questions to me or post your questions to the class anonymously (in this case your identity will only be visible to me).
 
 For a short introductory video to Piazza check [here](https://www.youtube.com/watch?v=tqGummy1Be4&list=PLEOX0FOixqJ4gJEWOelsBJBQ1mD05ZUKC).
 
