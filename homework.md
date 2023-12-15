@@ -18,13 +18,13 @@ Capsule Quizes are count for 10% of your final grade.
 - Quize 5, on gradescope, **March 10, 2023**.  
 - Quize 6, on gradescope, **March 31, 2023**. 
 
-## Homework
-Homework assignments are count for 20% of your final grade.
+## Assignment
+The assignments counts for 20% of your final grade.
 
-### Homework expectations
+### Assignment expectations
 - Completely explain your solutions. 
 - Correct answers without clear explanations will not receive full credit.
-- Homeworks must be completed individually. Discussion with others is okay, but you must write solutions yourself.
+- It must be completed individually. Discussion with others is okay, but you must write solutions yourself.
 - All code used to arrive at answers is submitted along with answers.
 - Code will be graded according to style in addition to functionality.
 
