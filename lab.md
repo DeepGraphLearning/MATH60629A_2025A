@@ -1,5 +1,5 @@
 | [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Lab](lab.md) | [Project](project.md) | [Office hour](office_hr.md)
-# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Winter 2023
+# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2024
 
 ## Hands-on Sessions
 
@@ -70,7 +70,7 @@ ___
 
 ___
 11- Week 11 (March 22): **Recommender Systems** 
-- [Class summary](ttp://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-diapos.pdf)
+- [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-diapos.pdf)
 - Required preparation for the case: [Case Presentation and class execution](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf) (answer to Question 1 must be submitted by the 13 at the latest)
 
 ___
