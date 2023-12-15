@@ -2,7 +2,7 @@
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2024
 
 ## Course Description
-Welcome to MATH80629A Graduate level course on introduction to machine learning at HEC Montreal (English edition). This is the English edition of the course, for the French edition, please check [here](http://www.cs.toronto.edu/~lcharlin/courses/60629/index_fr.html).
+Welcome to MATH60629A Graduate level course on introduction to machine learning at HEC Montreal (English edition). This is the English edition of the course, for the French edition, please check [here](http://www.cs.toronto.edu/~lcharlin/courses/60629/index_fr.html).
 In this course, we will study machine learning models, a type of statistical analysis that focuses on prediction, for analyzing very large datasets ("big data").
 The plan is to survey different machine learning techniques (supervised, unsupervised, reinforcement learning) as well as some applications (e.g., recommender systems).
 
