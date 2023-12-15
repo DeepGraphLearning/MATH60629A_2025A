@@ -4,7 +4,7 @@
 ## Lecture Schedule
 ___
 1- <span style="font-size:1em;">Week 1 (January 6): **Class introduction and math review**</span>
-- **Lecture**: [Slides](https://drive.google.com/file/d/1qmtn6C66dn-pDTvIUFmMOApKe9bpcEAD/view?usp=share_link)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_intro.pdf)
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
   * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
@@ -94,7 +94,7 @@ ___
 
 ___
 11- <span style="font-size:1em;">Week 11 (March 17): **Trustworthy Machine Learning  & Recommender systems**</span> 
-- **Lecture**: [slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/lecture_files/Week11_summary.pdf)
+- **Lecture**: [slides]()
 - **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
 
 ___
