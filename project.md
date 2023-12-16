@@ -18,7 +18,7 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Answers to questions: 3%
 
 ## Timeline
-- [Team Registration](), due: **February 2, 2024, by the end of the day EDT.**  
+- [Team Registration](), Teams of 3 or 4. Due: **February 2, 2024, by the end of the day EDT.**  
 - [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **March 4, 2024 by 12pm** Upload the PDF of the proposal to ZoneCours/Remise de travaux) by the head of the team (one upload per each team).
 - Project meeting, **March 8, 2024** 
 - [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 10, 2024 (11:55 pm EDT)**. Upload the PDF of your poster/slides to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
@@ -35,11 +35,11 @@ First, select a question that can be answered using machine learning. I expect t
 
 Your study should involve reading and understanding some background material. Your study must involve running some experiments. You are free to use (or not) any of the tools or models we have seen in class.
 
-**Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2020. Let me know as soon as possible if you are interested in this.
+<!--**Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2020. Let me know as soon as possible if you are interested in this.-->
 
-**Study plan**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to [Gradescope](). I will meet with each group to discuss study plans during the lecture of **March 3, 2023**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
+**Study plan**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to ZoneCours/Remise de travaux. I will meet with each group to discuss study plans during the lecture of **March 8, 2023**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. Please also include questions that you would like us to discuss at the end of the document.
 
-**The group report**: (1 upload per team) Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for pairs or 13 pages (plus references) for teams of three.
+**The group report**: (1 upload per team) Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for teams of 3 or 13 pages (plus references) for teams of 4.
 
 **The individual report**: (1 upload per student) You will also submit a brief individual report (at most one page), which will: (1) Describe the parts of the project you worked on (which machine learning methods you applied, which preprocessing steps you performed on the data, which parts of the term paper you wrote, who you worked with on what parts, etc.) and what parts of the project your teammates worked on. (2) What you learned from the project.
 The purpose of the individual report is to facilitate fair grading and to allow the instructor to understand well what you learned from the project.
