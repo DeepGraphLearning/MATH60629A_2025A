@@ -18,7 +18,7 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Answers to questions: 3%
 
 ## Timeline
-- [Team Registration](https://forms.gle/K3HjNaBoJjTvbm5z8), due: **January 20, 2023**. Fill this [form](https://forms.gle/jnwjMkkSXYiZShqE9).
+- [Team Registration](), due: **February 2, 2024**. 
 - [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **March 1, 2023** (by the end of the day EDT). Upload the PDF of the proposal to [gradescope]) by the head of the team (one upload per each team).
 - Project meeting, **March 3, 2023** 
 - [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 13, 2023 (4 pm EST)**. Upload the PDF of your poster/slides to [gradescope]() by the head of the team (one upload per each team).
