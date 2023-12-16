@@ -20,8 +20,8 @@ This course will be given as a [flipped classroom](https://en.wikipedia.org/wiki
 ## Prerequisites
 Mathematical maturity and basic knowledge of statistics, and probability will be assumed. 
 For the programming assignments and the project, Python programming will be assumed. Please fill in the following survey. 
-### Survey
-- [Student Introduction suvery](https://forms.gle/jnwjMkkSXYiZShqE9), due **January 15, 2024**.
+<!-- ### Survey
+- [Student Introduction suvery](https://forms.gle/jnwjMkkSXYiZShqE9), due **January 15, 2024**.-->
 
 If you do not know Python here are few ways to learn the basics below. 
 
