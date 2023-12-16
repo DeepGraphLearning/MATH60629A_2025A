@@ -34,7 +34,7 @@ Further a machine-learning tutorial using python will be provided on [week #4](l
 ## Grading
 Your final score for the course will be computed using the following weights:
 
-- [Homework](homework.md) (20%)
+- [Assignment](homework.md) (20%)
 - [Capsule quizzes](homework.md)  (10%)
 - [Project](project.md) (30%)
 - [Project presentation](project.md) (10%)
