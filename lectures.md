@@ -11,7 +11,7 @@ ___
   * For Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
 
 ___
-2- <span style="font-size:1em;">Week 2 (January 26): **Machine learning fundamentals**</span> 
+2- <span style="font-size:1em;">Week 2 (January 19): **Machine learning fundamentals**</span> 
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_ml-fundamentals.pdf)
 - **Capsules**:  
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
