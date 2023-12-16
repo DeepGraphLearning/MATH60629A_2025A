@@ -18,7 +18,7 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Answers to questions: 3%
 
 ## Timeline
-- [Team Registration](), Teams of 3 or 4. Due: **February 2, 2024, by the end of the day EDT.**  
+- [Team Registration](https://hecmtl-my.sharepoint.com/:x:/r/personal/dena_firoozi_hec_ca/_layouts/15/Doc.aspx?sourcedoc=%7B8B47B3FA-6E97-4421-9560-EA318595D65C%7D&file=Livre%202.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1702747140066&ct=1702747140461&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=1f36b8f7-01c0-475f-80d8-6bfa67686da9&login_hint=dena.firoozi%40hec.ca&cid=edfa7d12-492e-4ccd-8101-ef7560212e4a), Teams of 3 or 4. Due: **February 2, 2024, by the end of the day EDT.**  
 - [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **March 4, 2024 by 12pm** Upload the PDF of the proposal to ZoneCours/Remise de travaux) by the head of the team (one upload per each team).
 - Project meeting, **March 8, 2024** 
 - [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 10, 2024 (11:55 pm EDT)**. Upload the PDF of your poster/slides to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
