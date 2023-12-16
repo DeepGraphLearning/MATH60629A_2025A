@@ -23,8 +23,8 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Project meeting, **March 8, 2024** 
 - [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 10, 2024 (11:55 pm EDT)**. Upload the PDF of your poster/slides to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
 - In-class Presentation, on **April 12, 2024**.
-- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **April 28, 2023 by the end of the day EDT** . Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team. And Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
-- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **April 28, 2023 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (per each team member).
+- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **April 29, 2024 by the end of the day EDT** . Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team. And Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
+- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **April 29, 2024 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (per each team member).
 - [Final code](https://forms.gle/NR6ZG2feminTsJPN9), due: **April 28, 2023, by the end of the day EDT**. Upload the zip file of the final project code to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
 
 ## Goals
