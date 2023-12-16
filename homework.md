@@ -1,7 +1,8 @@
 | [MATH80629A](main.md) | [Lectures](lectures.md) | [Evaluations](homework.md) | [Lab](lab.md) | [Project](project.md) | [Office hours](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2024
 
-Assignments are count for 30% of your final grade. Most of the assignments are graded with [gradescope](https://www.gradescope.ca/courses/9439). You need to create an account and add yourself to the course with the Entry Code: M3YG6B.
+Assignments count for 30% of your final grade. 
+<! --Most of the assignments are graded with [gradescope](https://www.gradescope.ca/courses/9439). You need to create an account and add yourself to the course with the Entry Code: M3YG6B.-->
 
 To access a guideline that will help you with submitting your homework on gradescope, please click [here](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf).
 
