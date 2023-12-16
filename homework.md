@@ -17,18 +17,18 @@ Capsule Quizes are count for 10% of your final grade.
 - Quize 6, on ZoneCours/Test & Quiz, <!-- **March 31, 2023**.--> 
 
 ## Assignment
-The assignments counts for 20% of your final grade.
+The assignment counts for 20% of your final grade.
 
-### Assignment expectations
+### Expectations
 - Completely explain your solutions. 
 - Correct answers without clear explanations will not receive full credit.
-- It must be completed individually. Discussion with others is okay, but you must write solutions yourself.
+- Must be completed individually. Discussion with others is okay, but you must write solutions yourself.
 - All code used to arrive at answers is submitted along with answers.
 - Code will be graded according to style in addition to functionality.
 
-#### Assignments
-- **Assignment 1**: due **February 17, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
-Late policy with 30% penalty per day.
+#### Deadline 
+- The assignment is due **February 17, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
+Late submission policy with 10% penalty per day.
 
 * [Assignment 1: Questions](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_1.pdf)
 
