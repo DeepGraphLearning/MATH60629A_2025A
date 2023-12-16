@@ -26,9 +26,10 @@ The assignment counts for 20% of your final grade.
 - All code used to arrive at answers is submitted along with answers.
 - Code will be graded according to style in addition to functionality.
 
-### Deadline 
-- The assignment is due **March 1, 2024**. Upload the answers (Code and PDF) to ZoneCours/Remise de travaux. 
-Late submission policy with 10% penalty per day.
+### Deadline & Submission
+- The assignment is due **March 1, 2024**.
+- Upload the answers (Code and PDF) to ZoneCours/Remise de travaux.
+- Late submission policy with 10% penalty per day.
 
 ### Questions
 To be posted soon! <!-- (https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_1.pdf)-->
