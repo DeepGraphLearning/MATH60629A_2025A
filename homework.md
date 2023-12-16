@@ -8,13 +8,13 @@ Assignments count for 30% of your final grade.
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
-- Quize 0, on gradescope, **January 13, 2023**.
-- Quize 1, on gradescope, **January 20, 2023**. 
-- Quize 2, on gradescope, **February 3, 2023**.
-- Quize 3, on gradescope, **February 10, 2023**. 
-- Quize 4, on gradescope, **February 17, 2023**.  
-- Quize 5, on gradescope, **March 10, 2023**.  
-- Quize 6, on gradescope, **March 31, 2023**. 
+- Quize 0, on ZoneCours/Test & Quiz, **January 13, 2023**.
+- Quize 1, on ZoneCours/Test & Quiz, **January 20, 2023**. 
+- Quize 2, on ZoneCours/Test & Quiz, <!-- **February 3, 2023**.-->
+- Quize 3, on ZoneCours/Test & Quiz, <!-- **February 10, 2023**.--> 
+- Quize 4, on ZoneCours/Test & Quiz, <!-- **February 17, 2023**.-->  
+- Quize 5, on ZoneCours/Test & Quiz, <!-- **March 10, 2023**.-->  
+- Quize 6, on ZoneCours/Test & Quiz, <!-- **March 31, 2023**.--> 
 
 ## Assignment
 The assignments counts for 20% of your final grade.
