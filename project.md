@@ -67,7 +67,7 @@ i.e. why did a particular method work well/did not work well?
 **The individual report**: (1 upload per student) You will also submit a brief individual report (at most one page), which will: (1) Describe the parts of the project you worked on (which machine learning methods you applied, which preprocessing steps you performed on the data, which parts of the term paper you wrote, who you worked with on what parts, etc.) and what parts of the project your teammates worked on. (2) What you learned from the project.
 The purpose of the individual report is to facilitate fair grading and to allow the instructor to understand well what you learned from the project.
 
-**Some advice**(mostly taken from csc2515 at UofT):
+**Some advice** (mostly taken from csc2515 at UofT):
 
 - **Be selective!** Don't choose a project that has nothing to do with machine learning. Don't investigate an algorithm that has a high chance of failing or being un-implementable. Don't attack a problem that is irrelevant, ill-defined or unsolvable. Spend most of your time doing machine learning and not related things such as pre-processing your data.
 - **Be honest!** You are not being marked on how good the results are. It doesn't matter if your method is worse than the ones you compare to provided you implemented it properly. What matters is that you try something sensible and clearly describe the problem, your method, what you did, and what the results were.
