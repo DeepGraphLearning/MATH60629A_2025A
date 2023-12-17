@@ -25,7 +25,7 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Project meeting, **March 8, 2024** 
 - Project Presentation, due: **April 10, 2024 (11:55 pm EDT)**. Upload the PDF of your poster/slides to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
 - In-class Presentation, on **April 12, 2024**.
-- [Final group report], due: **April 26, 2024 by the end of the day EDT** . Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team. And Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
+- Final group report, due: **April 26, 2024 by the end of the day EDT**. Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
 - [Final individual report], due: **April 26, 2024 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (per each team member).
 - [Final code], due: **April 26, 2024, by the end of the day EDT**. Upload the zip file of the final project code to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
 
