@@ -4,7 +4,7 @@
 This project will be worth 40% of your final grade. You must work in teams of two or three.
 
 ## Grading Scheme 
-### Project Report (30%)
+### Project Report (29%)
 - Clarity/Relevance of problem statement and description of approach: 10%
 - Discussion of relationship to previous work and references: 4%
 - Design and execution of experiments: 10%
@@ -16,6 +16,8 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Slide or Poster quality: 2%
 - Correctness: 2%
 - Answers to questions: 3%
+  
+### Project Individual Report (1%)
 
 ## Timeline
 - [Team Registration](https://hecmtl-my.sharepoint.com/:x:/r/personal/dena_firoozi_hec_ca/_layouts/15/Doc.aspx?sourcedoc=%7B8B47B3FA-6E97-4421-9560-EA318595D65C%7D&file=Livre%202.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1702747140066&ct=1702747140461&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=1f36b8f7-01c0-475f-80d8-6bfa67686da9&login_hint=dena.firoozi%40hec.ca&cid=edfa7d12-492e-4ccd-8101-ef7560212e4a). Teams of 3 or 4 students. Due: **February 2, 2024, by the end of the day EDT.**  
@@ -55,13 +57,12 @@ Provide a write-up of your research in the form of an academic paper that could 
 2.	a description of machine learning methods not covered in class will allow us to evaluate whether you truly understood those methods instead of treating them as a black box.
 
 Your paper can for instance be divided into sections as follows (but if another structure works better for you, don’t feel restricted to the one below):
--	Introduction: a description of the problem (profiling of Facebook users), what the goals of the study are, and a very brief description of the results.
+-	Introduction: a description of the problem, what the goals of the study are, a survey of related work, and a very brief description of the results.
 -	Methodology: a brief description of the machine learning methods used.
 -	Dataset and metrics: a description of the datasets and the evaluation measures used.
 -	Results: an overview of the results you obtained by applying the methods from section 2 to the dataset from section 3 using the metrics from section 3. In addition to reporting numbers, your analysis of the results should also contain your insights into the results,
 i.e. why did a particular method work well/did not work well?
--	Conclusion and future work: briefly summarize your results and list opportunities for future research that seem promising to you but for which you did not find the time within this quarter.
-
+-	Conclusion and future work: briefly summarize your results and list opportunities for future research that seem promising to you but for which you did not find the time within this term.
 
 **The individual report**: (1 upload per student) You will also submit a brief individual report (at most one page), which will: (1) Describe the parts of the project you worked on (which machine learning methods you applied, which preprocessing steps you performed on the data, which parts of the term paper you wrote, who you worked with on what parts, etc.) and what parts of the project your teammates worked on. (2) What you learned from the project.
 The purpose of the individual report is to facilitate fair grading and to allow the instructor to understand well what you learned from the project.
