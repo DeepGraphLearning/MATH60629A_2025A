@@ -1,4 +1,4 @@
-| [MATH60629A](main.md) | [Lectures](lectures.md) | [Lab](lab.md) | [Quizzes and Assignment](homework.md) | [Project](project.md) | [Office hour](office_hr.md)
+| [MATH60629A](main.md) | [Lectures](lectures.md) | [Lab](lab.md) | [Quizzes and Assignment](homework.md) | [Project](project.md) | [Office hours](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2024
 
 ## Course Description
