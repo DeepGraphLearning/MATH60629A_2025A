@@ -41,13 +41,26 @@ Your study should involve reading and understanding some background material. Yo
 
 **Presentation**: This is a group presentation, with a set of slides or a poster prepared. All team members should present. Students who do not present can not get credit for this part. We will decide at random the order of the presentations.
 
-*Requirements*:
+*Requirements for the Presentation*:
 -	Give an overview of the task, and present statistical analysis of the data using visualization tools.
 -	Present the method that you use for each data source/task.
 -	Provide an overview of the prediction results you obtained by applying the machine learning methods on the public/private dataset.
 -	Your approach should at least beat a baseline or be similar to the state-of-the-art (SOTA) approach for the chosen task.
 
 **The group report**: (1 upload per team) Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for teams of 3 or 13 pages (plus references) for teams of 4.
+
+Provide a write-up of your research in the form of an academic paper that could be submitted to a conference on data mining/machine learning. Your paper should be self-contained. Everyone who has read the assigned reading materials from the course should be able to read and understand your paper. That means that in your paper you can be brief about machine learning methods that are described in the assigned readings, but that you need to provide sufficient details about the problem domain, the dataset, as well as about any other machine learning methods that you used that were not covered in class. The reasons for this are:
+1-	a description of the problem domain and the dataset will allow to share your paper with interested parties who have not taken the course but who have general knowledge of machine learning;
+2-	a description of machine learning methods not covered in class will allow us to evaluate whether you truly understood those methods instead of treating them as a black box.
+
+Your paper can for instance be divided into sections as follows (but if another structure works better for you, don’t feel restricted to the one below):
+-	Introduction: a description of the problem (profiling of Facebook users), what the goals of the study are, and a very brief description of the results.
+-	Methodology: a brief description of the machine learning methods used.
+-	Dataset and metrics: a description of the datasets and the evaluation measures used.
+-	Results: an overview of the results you obtained by applying the methods from section 2 to the dataset from section 3 using the metrics from section 3. In addition to reporting numbers, your analysis of the results should also contain your insights into the results,
+i.e. why did a particular method work well/did not work well?
+-	Conclusion and future work: briefly summarize your results and list opportunities for future research that seem promising to you but for which you did not find the time within this quarter.
+
 
 **The individual report**: (1 upload per student) You will also submit a brief individual report (at most one page), which will: (1) Describe the parts of the project you worked on (which machine learning methods you applied, which preprocessing steps you performed on the data, which parts of the term paper you wrote, who you worked with on what parts, etc.) and what parts of the project your teammates worked on. (2) What you learned from the project.
 The purpose of the individual report is to facilitate fair grading and to allow the instructor to understand well what you learned from the project.
