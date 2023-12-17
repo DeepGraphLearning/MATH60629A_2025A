@@ -50,8 +50,9 @@ Your study should involve reading and understanding some background material. Yo
 **The group report**: (1 upload per team) Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for teams of 3 or 13 pages (plus references) for teams of 4.
 
 Provide a write-up of your research in the form of an academic paper that could be submitted to a conference on data mining/machine learning. Your paper should be self-contained. Everyone who has read the assigned reading materials from the course should be able to read and understand your paper. That means that in your paper you can be brief about machine learning methods that are described in the assigned readings, but that you need to provide sufficient details about the problem domain, the dataset, as well as about any other machine learning methods that you used that were not covered in class. The reasons for this are:
-1-	a description of the problem domain and the dataset will allow to share your paper with interested parties who have not taken the course but who have general knowledge of machine learning;
-2-	a description of machine learning methods not covered in class will allow us to evaluate whether you truly understood those methods instead of treating them as a black box.
+
+1.	a description of the problem domain and the dataset will allow to share your paper with interested parties who have not taken the course but who have general knowledge of machine learning;
+2.	a description of machine learning methods not covered in class will allow us to evaluate whether you truly understood those methods instead of treating them as a black box.
 
 Your paper can for instance be divided into sections as follows (but if another structure works better for you, don’t feel restricted to the one below):
 -	Introduction: a description of the problem (profiling of Facebook users), what the goals of the study are, and a very brief description of the results.
