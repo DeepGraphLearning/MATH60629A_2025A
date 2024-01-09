@@ -8,7 +8,7 @@ ___
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
   * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-  * For Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
+  * For Math review: Check [here](https://www.cs.toronto.edu/~lcharlin/courses/60629/math_resources.html)
 
 ___
 2- <span style="font-size:1em;">Week 2 (January 19): **Machine learning fundamentals**</span> 
