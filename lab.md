@@ -31,7 +31,7 @@ ___
 
 4- Week 4 (February 2): **Python for scientific computations and machine learning** 
 - [Tutorial (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
-- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
+[- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)]: # 
 
 ___
 5- Week 5 (February 9): **Neural networks and deep learning** 
