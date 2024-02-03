@@ -10,11 +10,11 @@ Assignments count for 30% of your final grade.
 Capsule Quizes are count for 10% of your final grade.
 - Quize 0, on ZoneCours/Test & Quiz, Introduction Survey, **Deadline: January 15, 2024, 11am**.
 - Quize 1, on ZoneCours/Test & Quiz,  on the material of week 2 & 3, **Deadline: January 26, 2024, 11am**.
-- Quize 2, on ZoneCours/Test & Quiz, <!-- **February 3, 2023**.-->
-- Quize 3, on ZoneCours/Test & Quiz, <!-- **February 10, 2023**.--> 
-- Quize 4, on ZoneCours/Test & Quiz, <!-- **February 17, 2023**.-->  
-- Quize 5, on ZoneCours/Test & Quiz, <!-- **March 10, 2023**.-->  
-- Quize 6, on ZoneCours/Test & Quiz, <!-- **March 31, 2023**.--> 
+- Quize 2, on ZoneCours/Test & Quiz, on the material of week 5, **Deadline: February 9, 2024, 11am**.
+- Quize 3, on ZoneCours/Test & Quiz, on the material of week 6, **Deadline: February 16, 2024, 11am**.
+- Quize 4, on ZoneCours/Test & Quiz, on the material of week 7, **Deadline: February 23, 2024, 11am**.  
+- Quize 5, on ZoneCours/Test & Quiz, on the material of week 10, **Deadline: March 15, 2024, 11am**.  
+- Quize 6, on ZoneCours/Test & Quiz, on the material of week 12-1 & 12-2, **Deadline: April 5, 2024, 11am**. 
 
 ## Assignment
 The assignment counts for 20% of your final grade.
