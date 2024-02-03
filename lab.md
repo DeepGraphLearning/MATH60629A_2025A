@@ -31,7 +31,7 @@ ___
 
 4- Week 4 (February 2): **Python for scientific computations and machine learning** 
 - [Tutorial (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
-<!--- -[Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)----->
+-[Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
 - I encourage you to start the tutorial ahead of time and to finish it during our 180 minutes together.
 - It is mandatory to bring your laptop to class for this session. 
 
