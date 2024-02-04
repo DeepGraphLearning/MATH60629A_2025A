@@ -32,19 +32,10 @@ The assignment counts for 20% of your final grade.
 - Late submission policy with 10% penalty per day.
 
 ### Questions
-To be posted soon! <!-- (https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_1.pdf)-->
+[See here](https://colab.research.google.com/github/denafiroozi/Machine-Learning-I/blob/master/ML_I_Assignment_W24.ipynb)
 
-<!-- - **Assignment 2**: due **March 12, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
-Late policy with 30% penalty per day.
 
-* [Assignment 2]: (https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_2.pdf)
-* [CNN data: Weather Dataset](https://drive.google.com/file/d/1GeMabghHqPqPc6EwcITMEPqEWcoJoJ0P/view?usp=sharing)
-* [RNN data: CoNLL2000Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)
-* [Colab](https://drive.google.com/file/d/1d-snchdfEJSMRFDqNNVgYkpboSAwAC4j/view?usp=share_link)
 
-- **Assignment 3**: Case study on Recommender Systems: answer question 1, due **March 16, 2023**. Upload the PDF to your gradescope account. 
-
-* [Assignment 3: Questions](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)-->
 
 
 
