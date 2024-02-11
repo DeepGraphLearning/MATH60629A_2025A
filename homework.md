@@ -7,7 +7,7 @@
 <!-- To access a guideline that will help you with submitting your homework on gradescope, please click [here](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf).-->
 
 ## Quizzes 
-Capsule Quizes are count for 10% of your final grade.
+Capsule Quizzes count for 10% of your final grade.
 - Quiz 0, on ZoneCours/Test & Quiz, Introduction Survey, **Deadline: January 15, 2024, 11am**.
 - Quiz 1, on ZoneCours/Test & Quiz,  on the material of week 2 & 3, **Deadline: January 26, 2024, 11am**.
 - Quiz 2, on ZoneCours/Test & Quiz, on the material of week 5, **Deadline: February 9, 2024, 11am**.
