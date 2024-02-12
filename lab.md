@@ -43,7 +43,7 @@ ___
 
 ___
 6- Week 6 (February 16): **Recurrent Neural networks and Convolutional neural networks** 
-- [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
+- [Class summary](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnnSummary.pdf)
 - [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
 - [Solution RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Answers.ipynb)
