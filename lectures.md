@@ -70,6 +70,8 @@ ___
   * [Conclusions and Practical remarks](https://youtu.be/mA71uUtkcXw) [9:17]
 - **Reading**: Required readings: Sections 10, 10.1, 10.2 (skim 10.2.2, skip 10.2.3), and 10.7. Sections 9, 9.1, 9.2, 9.3 (9.11 for fun). Both from [the Deep Learning book](http://www.deeplearningbook.org/).
 
+___
+
 8- <span style="font-size:1em;">Week 8 (March 1): **Reading week**</span> 
 - No lectures
 ___
