@@ -56,8 +56,10 @@ ___
   * Sections [6.1--6.3 and 6.5](http://www.deeplearningbook.org/contents/mlp.html) (stop at 6.5.4) of Deep Learning (the book).  
   * Optional: Chapter 11 of the Elements of Statistical Learning.
 
+____
+6- <span style="font-size:1em;">Week 6 (February 16): **Cancelled**</span> 
 ___
-6- <span style="font-size:1em;">Week 6 (February 16): **Recurrent Neural networks and Convolutional neural networks**</span> 
+7- <span style="font-size:1em;"> Week 7 (February 23): **Recurrent Neural networks and Convolutional neural networks**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
 - **Capsules**: 
   * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
@@ -68,8 +70,10 @@ ___
   * [Conclusions and Practical remarks](https://youtu.be/mA71uUtkcXw) [9:17]
 - **Reading**: Required readings: Sections 10, 10.1, 10.2 (skim 10.2.2, skip 10.2.3), and 10.7. Sections 9, 9.1, 9.2, 9.3 (9.11 for fun). Both from [the Deep Learning book](http://www.deeplearningbook.org/).
 
+8- <span style="font-size:1em;">Week 8 (March 1): **Reading week**</span> 
+- No lectures
 ___
-7- <span style="font-size:1em;">Week 7 (February 23): **Unsupervised learning**</span> 
+9- <span style="font-size:1em;">Week 9 (March 8): **Unsupervised learning**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
 - **Capsules**: 
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
@@ -78,16 +82,13 @@ ___
   * [Beyond Clustering](https://youtu.be/zVoi--FTiYk) [14:42]
 - **Reading**: Section 14.3 (skip 14.3.5 and 14.3.12) of the Elements of Statistical Learning. Optional: Chapter 9 of the Pattern Recognition and Machine Learning. 
 
-___
-8- <span style="font-size:1em;">Week 8 (March 1): **Reading week**</span> 
-- No lectures
-
-___
+<!--___
+ __
 9- <span style="font-size:1em;">Week 9 (March 8): **Project meetings**</span> 
-- No lectures
+- No lectures -->
 
 ___
-10- <span style="font-size:1em;">Week 10 (March 15): **Parallel computational paradigms for large-scale data processing**</span>
+10- <span style="font-size:1em;">Week 10 (March 15): **Parallel computational paradigms for large-scale data processing & Project meetings**</span>
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale.pdf)
 - **Capsules**: 
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
