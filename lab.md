@@ -42,7 +42,10 @@ ___
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
 
 ___
-6- Week 6 (February 16): **Recurrent Neural networks and Convolutional neural networks** 
+6- Week 6 (February 16): **Cancelled**
+
+___
+7- Week 7 (February 23): **Recurrent Neural networks and Convolutional neural networks** 
 - [Class summary](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnnSummary.pdf)
 - [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
@@ -52,21 +55,17 @@ ___
 - Optional: if you are intrested to learn more, this [Exercises CNNs: Pytorch (colab)](https://towardsdatascience.com/pytorch-basics-how-to-train-your-neural-net-intro-to-cnn-26a14c2ea29) is an example of CNNs implemented in [Pytorch](https://pytorch.org/). 
 
 ___
-7- Week 7 (February 23): **Unsupervised learning** 
+8- Week 8 (March 1): **Reading week**
+* No hands-on
+
+___
+9- Week 9 (March 8): **Unsupervised learning** 
 - [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_questions.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_answers.ipynb)
 
 ___
-8- Week 8 (March 1): **Reading week**
-* No hands-on
-
-___
-9- Week 9 (March 8): **Project meetings**
-* No hands-on
-
-___
-10- Week 10 (March 15): **Parallel computational paradigms for large-scale data processing**
+10- Week 10 (March 15): **Parallel computational paradigms for large-scale data processing & Project Meetings**
 - [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale.pdf)
 <!-- [CPU or GPU (colab)]([https://colab.research.google.com/drive/1MhJp0QeEWZgT-H1pCP6dYqfa0C3YGlLL?usp=sharing](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week10-ParallelComputations/CPU_GPU_TPU.ipynb#scrollTo=wp-dVW-X7tse)).-->
 
