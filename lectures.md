@@ -74,8 +74,10 @@ ___
 ___
 
 8- <span style="font-size:1em;">Week 8 (March 1): **Reading week**</span> 
-- No lectures
-___
+- No lectures.
+
+  
+____
 9- <span style="font-size:1em;">Week 9 (March 8): **Unsupervised learning**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
 - **Capsules**: 
