@@ -57,7 +57,8 @@ ___
   * Optional: Chapter 11 of the Elements of Statistical Learning.
 
 ____
-6- <span style="font-size:1em;">Week 6 (February 16): **Cancelled**</span> 
+6- <span style="font-size:1em;">Week 6 (February 16): **Cancelled**
+
 ___
 7- <span style="font-size:1em;"> Week 7 (February 23): **Recurrent Neural networks and Convolutional neural networks**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
