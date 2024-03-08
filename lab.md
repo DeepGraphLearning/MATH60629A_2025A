@@ -60,7 +60,7 @@ ___
 
 ___
 9- Week 9 (March 8): **Unsupervised learning** 
-- [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
+- [Class summary](https://www.cs.toronto.edu/~lcharlin/courses/60629/slidesUnsupervised-summary.pdf))
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_questions.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_answers.ipynb)
 
