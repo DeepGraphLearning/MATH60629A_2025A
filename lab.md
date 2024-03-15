@@ -66,7 +66,7 @@ ___
 
 ___
 10- Week 10 (March 15): **Parallel computational paradigms for large-scale data processing & Project Meetings**
-- [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale.pdf)
+- [Class summary](https://www.cs.toronto.edu/~lcharlin/courses/60629/summary-midterm.pdf)
 - [CPU or GPU (colab)](https://colab.research.google.com/github/denafiroozi/Machine-Learning-I/blob/master/parallel-comp-code/CPU_GPU_TPU_Example.ipynb)
 
 
