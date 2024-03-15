@@ -94,7 +94,7 @@ ____
 
 ___
 10- <span style="font-size:1em;">Week 10 (March 15): **Parallel computational paradigms for large-scale data processing & Project meetings**</span>
-- **Lecture**: [Slides](https://github.com/denafiroozi/Machine-Learning-I/blob/master/lecture_files/summary-midterm%20(1).pdf)
+- **Lecture (review)**: [Slides](https://github.com/denafiroozi/Machine-Learning-I/blob/master/lecture_files/summary-midterm%20(1).pdf)
 - **Capsules**: 
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
   * [MapReduce](https://youtu.be/U3FLRYH3R5Q) [17:41]
