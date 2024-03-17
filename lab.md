@@ -74,7 +74,7 @@ ___
 11- Week 11 (March 22): **Recommender Systems** 
 - [Class Slides](to come)
 - [Case Presentation](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
-- Required preparation for the case study: Answer to Question 1 must be submitted by March 22nd, 11:00am, via Remise de Travaux on ZoneCours
+- Required preparation for the case study: Answer to Question 1 must be submitted by March 22nd, 11:00am, via Remise de Travaux on ZoneCours. This is an indvidual submission. All students must make the submission. 
 - Class Execution: We first review some of the mainstream recommender systems. Then, we have group discussions on Question 1 of the case study. Each group needs to prepare 2-3 slides on the discussion results. A random subset of groups will make a brief presentation. We continue discussions and move on to the second question.  
 
 ___
