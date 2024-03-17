@@ -66,7 +66,7 @@ ___
 
 ___
 10- Week 10 (March 15): **Parallel computational paradigms for large-scale data processing & Project Meetings**
-- [Class summary (Review)](https://github.com/denafiroozi/Machine-Learning-I/blob/master/lecture_files/summary-midterm%20(1).pdf)
+- [Class summary (Review)](lecture_files/summary-midterm%20(1).pdf)
 - [CPU or GPU (colab)](https://colab.research.google.com/github/denafiroozi/Machine-Learning-I/blob/master/parallel-comp-code/CPU_GPU_TPU_Example.ipynb)
 
 
