@@ -75,7 +75,7 @@ ___
 - [Class Slides](to come)
 - [Case Presentation and class execution](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
 - Required preparation for the case study: Answer to Question 1 must be submitted by March 22nd, 11:00am, via Remise de Travaux on ZoneCours
-- Session Plan: We first review some of the mainstream recommender systems. Then we have group discussions on the case study. Each group needs to prepare 2-3 slides on the discussion results. A random subset of groups will make a brief presentation.  
+- Session Plan: We first review some of the mainstream recommender systems. Then we have group discussions on the case study. Each group needs to prepare 2-3 slides on the discussion results. A random subset of groups will make a brief presentation. We continue discussions and move on to the second question.  
 
 ___
 12- Week 12-1 (April 2): **Sequential decision making I** 
