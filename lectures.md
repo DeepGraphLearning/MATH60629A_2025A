@@ -101,9 +101,12 @@ ___
   * [Spark](https://www.youtube.com/watch?v=4gOdejqyHng) [17:37]
 
 ___
-11- <span style="font-size:1em;">Week 11 (March 22): **Recommender systems**</span> 
+11- <span style="font-size:1em;">Week 11 (March 22): **Recommender systems**</span>
+- **Case Study**: [Case Presentation and class execution](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
+- **Required preparation for the case study**:(answer to Question 1 must be submitted by March 22nd, 11:00am)
 - **Lecture**: [slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-diapos.pdf)
 - **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
+
 
 ___
 12- <span style="font-size:1em;">Week 12-1 (April 2): **Sequential decision making I**</span> 
