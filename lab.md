@@ -79,7 +79,7 @@ ___
 
 ___
 12- Week 12-1 (April 2): **Sequential decision making I** 
-- [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl.pdf)
+- [Class summary](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl-summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_question.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_solution.ipynb)
 
