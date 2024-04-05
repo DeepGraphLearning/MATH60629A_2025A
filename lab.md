@@ -85,7 +85,7 @@ ___
 
 ___
 13- Week 12-2 (April 5): **Sequential decision making II** 
-- [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
+- [Class summary](lecture_files/slides_rl2-Class-Summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Question.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution.ipynb)
 
