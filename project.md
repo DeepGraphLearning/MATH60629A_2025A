@@ -56,7 +56,7 @@ Your study should involve reading and understanding some background material. Yo
 -	Your approach should at least beat a baseline or be similar to the state-of-the-art (SOTA) approach for the chosen task.
 -	Wrap up with a few concluding remarks.
 -	The presentation length must be between 10-12 minutes followed by 3-5 minutes of questions, in total 15 minutes.
--	All team members should present. Students who do not present can not get credit for this part.
+-	**All team members** should present. Students who do not present can not get credit for this part.
 
 **The group report**: (1 upload per team) Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for teams of 3 or 13 pages (plus references) for teams of 4.
 
