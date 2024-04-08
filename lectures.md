@@ -134,6 +134,6 @@ ___
 * Final exam: April 28
 * Final exam is paper-based, closed-book and in person. 
 * An HEC-approved calculator is permitted.
-* One double-sided typed or handwritten cheatsheet of size 8 ½ x 11 is permitted. 
+* One typed or handwritten double-sided cheat sheet in 8 ½ x 11 format is permitted.
 * Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/60629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20.pdf) - [Solutions](http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20_solutions.pdf)
 
