@@ -133,7 +133,7 @@ ___
 ___
 ** Final exam: April 28 **
 
-Final exam covers all the topics taught in the course (capsules, required readings, new concepts introduced in hands-on exercises). You will be examined on the conceptual level. In other words, you will not be asked to generate an algorithm. However, you need to have a good understanding of the machine learning methods and implementation concepts to answer the questions (see the sample exams below). 
+Final exam covers all the topics taught in the course (capsules, required readings, new concepts introduced in hands-on exercises). You will be examined on the conceptual level. In other words, you will not be asked to generate an algorithm. However, you need to have a solid understanding of the machine learning methods and their implementation concepts to answer the questions (see the sample exams below). 
 
 * Final exam is paper-based, closed-book and in person. 
 * An HEC-approved calculator is permitted.
