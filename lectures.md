@@ -132,6 +132,7 @@ ___
 
 ___
 ** Final exam: April 28 **
+Final exam covers all the topics taught in the course (capsules, required readings, new concepts introduced in hands-on exercises).
 * Final exam is paper-based, closed-book and in person. 
 * An HEC-approved calculator is permitted.
 * One typed or handwritten double-sided cheat sheet in 8 ½ x 11 format is permitted.
