@@ -131,7 +131,7 @@ ___
 14- <span style="font-size:1em;">Week 15 (April 12): **Class Project presentation**</span>
 
 ___
-* Final exam: April 28
+** Final exam: April 28 **
 * Final exam is paper-based, closed-book and in person. 
 * An HEC-approved calculator is permitted.
 * One typed or handwritten double-sided cheat sheet in 8 ½ x 11 format is permitted.
