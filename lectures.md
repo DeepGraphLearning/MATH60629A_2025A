@@ -131,7 +131,7 @@ ___
 14- <span style="font-size:1em;">Week 15 (April 12): **Class Project presentation**</span>
 
 ___
-** Final exam: April 28 **
+**Final exam: April 28**
 
 Final exam covers all the topics taught in the course (capsules, required readings, new concepts introduced in hands-on exercises). You will be examined on the conceptual level. In other words, you will not be asked to generate an algorithm. However, you need to have a solid understanding of the machine learning methods and their implementation concepts to answer the questions (see the sample exams below). 
 
