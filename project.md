@@ -23,11 +23,12 @@ This project will be worth 40% of your final grade. You must work in teams of th
 - [Team Registration](https://hecmtl-my.sharepoint.com/:x:/g/personal/dena_firoozi_hec_ca/EfqzR4uXbiFElWDqMYWV1lwB6xolsAbMGYmsS7Ore-3_pg?e=AlqsdG). Teams of 3 or 4 students. Due: **February 2, 2024, by the end of the day EDT.**  
 - Study plan, due: **between March 4-11, 2024 by 12pm** Upload the PDF of the proposal to ZoneCours/Remise de travaux) by the head of the team (one upload per each team).
 - Project meeting: **March 15, 2024**. If you want to meet earlier (in the week of March 4th and March 11th), that would be possible. You need to submit your study plan at least 3 days ahead of the meeting and indicate in the plan that you want to meet earlier. 
-- Project Presentation, due: **April 11, 2024 (12:00 pm EDT)**. Upload the PDF version of your poster/slides to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
+- Project Presentation, due: **April 11, 2024 (12:00 pm EDT)**. Upload the PDF version of your poster/slides to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
 - In-class Presentation, on **April 12, 2024**.
 - Final group report, due: **April 26, 2024 by the end of the day EDT**. Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
-- Final individual report, due: **April 26, 2024 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (per each team member). 
-- Final code, due: **April 26, 2024, by the end of the day EDT**. Upload the zip file of the final project code to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
+- Final individual report, due: **April 26, 2024 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (*one upload per each team*). 
+- Final code, due: **April 26, 2024, by the end of the day EDT**. Upload the zip file of the final project code to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
+- Individual report: **April 26, 2024, by the end of the day EDT**. Upload the PDF of the individual report to ZoneCours/Remise de travaux (*one upload per each student*).
 
 ## Goals
 
@@ -73,7 +74,7 @@ Your paper can for instance be divided into sections as follows (but if another 
 i.e. why did a particular method work well/did not work well?
 -	Conclusion and future work: briefly summarize your results and list opportunities for future research that seem promising to you but for which you did not find the time within this term.
 
-You must format your submission using the NeurIPS 2024 LaTeX style file using the “preprint” option (\usepackage[preprint]{neurips_2024}) for non-anonymous preprints posted online. Following Neurips standard (one of the primary conferences in ML, see [here](https://neurips.cc/Conferences/2024/CallForPapers), the main text of the report is limited to **nine content pages**, including all figures and tables. Additional pages containing references do not count as content pages. The main text and references may be followed by technical appendices (more details about the methods used and the ones that did not lead to good results), for which there is no page limit.
+You must format your submission using the NeurIPS 2024 LaTeX style file using the “preprint” option (\usepackage[preprint]{neurips_2024}) for non-anonymous preprints posted online. Following Neurips standard (one of the primary conferences in ML, see [here](https://neurips.cc/Conferences/2024/CallForPapers)), the main text of the report is limited to **nine content pages**, including all figures and tables. Additional pages containing references do not count as content pages. The main text and references may be followed by technical appendices (more details about the methods used and the ones that did not lead to good results), for which there is no page limit. *Do not forget to upload the zip file of the final project code*.
 
 **The individual report**: (1 upload per student) You will also submit a brief individual report (at most one page), which will: (1) Describe the parts of the project you worked on (which machine learning methods you applied, which preprocessing steps you performed on the data, which parts of the term paper you wrote, who you worked with on what parts, etc.) and what parts of the project your teammates worked on. (2) What you learned from the project.
 The purpose of the individual report is to facilitate fair grading and to allow the instructor to understand well what you learned from the project.
