@@ -56,11 +56,8 @@ ___
   * Sections [6.1--6.3 and 6.5](http://www.deeplearningbook.org/contents/mlp.html) (stop at 6.5.4) of Deep Learning (the book).  
   * Optional: Chapter 11 of the Elements of Statistical Learning.
 
-____
-6- <span style="font-size:1em;">Week 6 (February 14): **Cancelled**</span> 
-
 ___
-7- <span style="font-size:1em;"> Week 7 (February 21): **Recurrent Neural networks and Convolutional neural networks**</span> 
+6- <span style="font-size:1em;"> Week 6 (February 14): **Recurrent Neural networks and Convolutional neural networks**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
 - **Capsules**: 
   * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
@@ -73,12 +70,7 @@ ___
 
 ___
 
-8- <span style="font-size:1em;">Week 8 (February 28): **Reading week**</span> 
-- No lectures.
-
-  
-____
-9- <span style="font-size:1em;">Week 9 (March 7): **Unsupervised learning**</span> 
+7- <span style="font-size:1em;">Week 7 (February 21): **Unsupervised learning**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
 - **Capsules**: 
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
@@ -87,9 +79,13 @@ ____
   * [Beyond Clustering](https://youtu.be/zVoi--FTiYk) [14:42]
 - **Reading**: Section 14.3 (skip 14.3.5 and 14.3.12) of the Elements of Statistical Learning. Optional: Chapter 9 of the Pattern Recognition and Machine Learning. 
 
-<!--___
+____
+
+8- <span style="font-size:1em;">Week 8 (February 28): **Reading week**</span> 
+- No lectures.
+
  __
-9- <span style="font-size:1em;">Week 9 (March 8): **Project meetings**</span> 
+9- <span style="font-size:1em;">Week 9 (March 7): **Project meetings**</span> 
 - No lectures -->
 
 ___
@@ -109,7 +105,7 @@ ___
 
 
 ___
-12- <span style="font-size:1em;">Week 12-1 (March 28): **Sequential decision making I**</span> 
+12- <span style="font-size:1em;">Week 12 (March 28): **Sequential decision making I**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl.pdf)
 - **Capsules**: 
   * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
@@ -119,7 +115,7 @@ ___
 - **Reading**: Optional: [Demo of the policy iteration algorithm](http://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
 
 ___
-13- <span style="font-size:1em;">Week 12-2 (April 4): **Sequential decision making II**</span> 
+13- <span style="font-size:1em;">Week 13 (April 4): **Sequential decision making II**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
 - **Capsules**: 
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
@@ -128,7 +124,7 @@ ___
 - **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](http://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
 
 ___
-14- <span style="font-size:1em;">Week 15 (April 11): **Class Project presentation**</span>
+14- <span style="font-size:1em;">Week 14 (April 11): **Class Project presentation**</span>
 
 ___
 **Final exam: April 29**
