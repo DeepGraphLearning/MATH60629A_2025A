@@ -87,9 +87,13 @@ Be modest! Don't pick a project that is way too hard. Usually, if you select the
 - **Learn!** The point of the project is to give you a chance to "test drive" the process of doing machine learning. Consider this an opportunity to learn how to write code to run large experiments, make nice figures, layout readable equations, describe your work concisely to a smart but uninitiated reader, etc.
 - **Have fun!** If you pick something you think is cool, that will make getting it to work less painful and writing up your results less boring.
 
+**Samples of previuos projects**
+- [Presentations](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/Machine_Learning_Presentation.pdf)
+
 **Intresting dataset**
 To find interesting datasets for your project, you can check: 
-- [Presentations](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/Machine_Learning_Presentation.pdf)
 - [Kaggle](https://www.kaggle.com/competitions)
 - [UCI: Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
 - [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+
