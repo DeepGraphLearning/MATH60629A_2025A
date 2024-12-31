@@ -86,7 +86,7 @@ ____
 
  __
 9- <span style="font-size:1em;">Week 9 (March 7): **Project meetings**</span> 
-- No lectures -->
+
 
 ___
 10- <span style="font-size:1em;">Week 10 (March 14): **Parallel computational paradigms for large-scale data processing & Project meetings**</span>
