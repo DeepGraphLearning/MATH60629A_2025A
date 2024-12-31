@@ -3,7 +3,7 @@
 
 ## Lecture Schedule
 ___
-1- <span style="font-size:1em;">Week 1 (January 12): **Class introduction and math review**</span>
+1- <span style="font-size:1em;">Week 1 (January 10): **Class introduction and math review**</span>
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_intro.pdf)
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
