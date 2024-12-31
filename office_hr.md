@@ -1,5 +1,5 @@
 | [MATH60629A](main.md) | [Lectures](lectures.md) | [Lab](lab.md)| [Quizzes and Assignment](homework.md)  | [Project](project.md) | [Office Hours](office_hr.md)
-# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2024
+# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2025
 
 ### Piazza
 We will be using [Piazza](https://piazza.com/) for class discussions. The system is designed so that you can get help quickly and efficiently from your classmates and myself. Rather than emailing your questions, I invite you to post them on Piazza. The TA and I will check your questions regularly and respond to them. You can post private questions to us or post your questions to the class anonymously (in this case your identity will only be visible to me). It is preferable to post your questions publicly so that everyone can see them and contribute to the discussion. 
