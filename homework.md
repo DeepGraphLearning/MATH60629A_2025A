@@ -6,7 +6,7 @@
 
 <!-- To access a guideline that will help you with submitting your homework on gradescope, please click [here](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf).-->
 
-## Quizzes 
+## Quizzes
 Capsule Quizzes count for 10% of your final grade.
 - Quiz 0, on ZoneCours/Test & Quiz, Introduction Survey, **Deadline: January 10, 2025, 11:55pm**.
 - Quiz 1, on ZoneCours/Test & Quiz,  on the material of week 2 & 3, **Deadline: January 24, 2025, 11am**.
