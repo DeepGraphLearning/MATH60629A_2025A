@@ -27,12 +27,12 @@ The assignment counts for 20% of your final grade.
 - Code will be graded according to style in addition to functionality.
 
 ### Deadline & Submission
-- The assignment is due **March 1, 2024**.
+- The assignment is due **February 28, 2024**.
 - Upload the answers (a PDF including the colab link) to ZoneCours/Remise de travaux.
 - Late submission policy with 10% penalty per day.
 
 ### Questions
-[See here](https://colab.research.google.com/github/denafiroozi/Machine-Learning-I/blob/master/ML_I_Assignment_W24.ipynb)
+[See here]()
 
 
 
