@@ -20,13 +20,13 @@ This project will be worth 40% of your final grade. You must work in teams of th
 ### Project Individual Report (1%)
 
 ## Timeline
-- [Team Registration](https://hecmtl-my.sharepoint.com/:x:/g/personal/dena_firoozi_hec_ca/EfqzR4uXbiFElWDqMYWV1lwB6xolsAbMGYmsS7Ore-3_pg?e=AlqsdG). Teams of 3 or 4 students. Due: **February 2, 2024, by the end of the day EDT.**  
-- Study plan, due: **between March 4-11, 2024 by 12pm** Upload the PDF of the proposal to ZoneCours/Remise de travaux) by the head of the team (one upload per each team).
-- Project meeting: **March 15, 2024**. If you want to meet earlier (in the week of March 4th and March 11th), that would be possible. You need to submit your study plan at least 3 days ahead of the meeting and indicate in the plan that you want to meet earlier. 
-- Project Presentation, due: **April 11, 2024 (12:00 pm EDT)**. Upload the PDF version of your poster/slides to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
-- In-class Presentation, on **April 12, 2024**.
-- Final group report, due: **April 26, 2024 by the end of the day EDT**. Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
-- Final code, due: **April 26, 2024, by the end of the day EDT**. Upload the zip file of the final project code to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
+- [Team Registration](https://hecmtl-my.sharepoint.com/:x:/g/personal/dena_firoozi_hec_ca/EfqzR4uXbiFElWDqMYWV1lwB6xolsAbMGYmsS7Ore-3_pg?e=AlqsdG). Teams of 3 or 4 students. Due: **January 31, 2024, by the end of the day EDT.**  
+- Study plan, due: **between February 14-28, 2024 by 11:55pm** Upload the PDF of the proposal to ZoneCours/Remise de travaux) by the head of the team (one upload per each team).
+- Project meeting: **February 21 to March 7, 2024**. If you want to meet earlier than March 7, you must submit your study plan a week ahead of the meeting and indicate in the plan that you want to meet earlier. 
+- Project Presentation, due: **April 8, 2024 (12:00 pm EDT)**. Upload the PDF version of your poster/slides to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
+- In-class Presentation, on **April 11, 2024**.
+- Final group report, due: **April 18, 2024 by the end of the day EDT**. Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
+- Final code, due: **April 18, 2024, by the end of the day EDT**. Upload the zip file of the final project code to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
 - Final individual report, due: **April 26, 2024 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (*one upload per each student*). 
 
 ## Goals
