@@ -8,7 +8,7 @@
 
 ## Quizzes 
 Capsule Quizzes count for 10% of your final grade.
-- Quiz 0, on ZoneCours/Test & Quiz, Introduction Survey, **Deadline: January 11, 2024, 11am**.
+- Quiz 0, on ZoneCours/Test & Quiz, Introduction Survey, **Deadline: January 10, 2024, 11:55pm**.
 - Quiz 1, on ZoneCours/Test & Quiz,  on the material of week 2 & 3, **Deadline: January 24, 2024, 11am**.
 - Quiz 2, on ZoneCours/Test & Quiz, on the material of week 5, **Deadline: February 7, 2024, 11am**.
 - Quiz 3, on ZoneCours/Test & Quiz, on the material of week 6, **Deadline: February 14, 2024, 11am**.
