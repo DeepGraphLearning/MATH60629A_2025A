@@ -91,6 +91,7 @@ Be modest! Don't pick a project that is way too hard. Usually, if you select the
 - [Presentations](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/Machine_Learning_Presentation.pdf)
 
 **Intresting dataset**
+
 To find interesting datasets for your project, you can check: 
 - [Kaggle](https://www.kaggle.com/competitions)
 - [UCI: Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
