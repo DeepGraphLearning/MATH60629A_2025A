@@ -60,7 +60,11 @@ ___
 ___
 8- Week 8 (February 28): **Reading week**
 * No hands-on
-  
+
+
+ __
+9- <span style="font-size:1em;">Week 9 (March 7): **Project meetings**</span> 
+    
 ___
 10- Week 10 (March 14): **Parallel computational paradigms for large-scale data processing & Project Meetings**
 - [Class summary (Review)](lecture_files/summary-midterm%20(1).pdf)
