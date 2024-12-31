@@ -12,7 +12,7 @@ If you are a new Colab user, you can check [here](https://colab.research.google.
 
 ### Schedule 
 ___
-1- Week 1 (January 12): **Class introduction and math review** 
+1- Week 1 (January 10): **Class introduction and math review** 
 * No hands-on
 
 ___
