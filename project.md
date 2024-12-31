@@ -27,7 +27,7 @@ This project will be worth 40% of your final grade. You must work in teams of th
 - In-class Presentation, on **April 11, 2024**.
 - Final group report, due: **April 18, 2024 by the end of the day EDT**. Upload the PDF of the final group report to ZoneCours/Remise de travaux by the head of the team (one upload per each team).
 - Final code, due: **April 18, 2024, by the end of the day EDT**. Upload the zip file of the final project code to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
-- Final individual report, due: **April 26, 2024 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (*one upload per each student*). 
+- Final individual report, due: **April 18, 2024 by the end of the day EDT** . Upload the PDF of the final individual report to ZoneCours/Remise de travaux (*one upload per each student*). 
 
 ## Goals
 
