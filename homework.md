@@ -1,5 +1,5 @@
 | [MATH60629A](main.md) | [Lectures](lectures.md) | [Lab](lab.md) | [Quizzes and Assignment](homework.md) | [Project](project.md) | [Office hours](office_hr.md)
-# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2024
+# Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Winter 2025
 
 <!--Assignments count for 30% of your final grade. 
  Most of the assignments are graded with [gradescope](https://www.gradescope.ca/courses/9439). You need to create an account and add yourself to the course with the Entry Code: M3YG6B.-->
