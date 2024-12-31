@@ -11,7 +11,7 @@ ___
   * For Math review: Check [here](https://www.cs.toronto.edu/~lcharlin/courses/60629/math_resources.html)
 
 ___
-2- <span style="font-size:1em;">Week 2 (January 19): **Machine learning fundamentals**</span> 
+2- <span style="font-size:1em;">Week 2 (January 17): **Machine learning fundamentals**</span> 
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_ml-fundamentals.pdf)
 - **Capsules**:  
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
@@ -25,7 +25,7 @@ ___
   * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skip 5.4 (except 5.4.4) to 5.10.  
   
 ___
-3- <span style="font-size:1em;">Week 3 (January 26): **Supervised learning algorithms**</span> 
+3- <span style="font-size:1em;">Week 3 (January 24): **Supervised learning algorithms**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_supervised.pdf)
 - **Capsules**: 
   * [Nearest Neighbor](https://youtu.be/wrpB9mxmhJc) [19:05]
@@ -36,7 +36,7 @@ ___
 - **Reading**: Sections 4.1-4.3, 4.5 of The Elements of Statistical Learning (available [online](https://web.stanford.edu/~hastie/ElemStatLearn/)), Sections 3.5 and 4.2 of Machine Learning (K. Murphy)
 
 ___
-4- <span style="font-size:1em;">Week 4 (February 2): **Python for scientific computations and machine learning**</span> 
+4- <span style="font-size:1em;">Week 4 (January 31): **Python for scientific computations and machine learning**</span> 
 - ML Lab location: [Salle Groupe Cholette](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)
 - **Lecture**: [Tutorial](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
 - solution: [solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
@@ -44,7 +44,7 @@ ___
 - It is mandatory to bring your laptop to class for this session. 
 
 ___
-5- <span style="font-size:1em;">Week 5 (February 9): **Neural networks and deep learning**</span> 
+5- <span style="font-size:1em;">Week 5 (February 7): **Neural networks and deep learning**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_nn.pdf)
 - **Capsules**: 
   * [From linear classification to neural networks](https://youtu.be/Bs6NA2gGz78) [19:28]
@@ -57,10 +57,10 @@ ___
   * Optional: Chapter 11 of the Elements of Statistical Learning.
 
 ____
-6- <span style="font-size:1em;">Week 6 (February 16): **Cancelled**</span> 
+6- <span style="font-size:1em;">Week 6 (February 14): **Cancelled**</span> 
 
 ___
-7- <span style="font-size:1em;"> Week 7 (February 23): **Recurrent Neural networks and Convolutional neural networks**</span> 
+7- <span style="font-size:1em;"> Week 7 (February 21): **Recurrent Neural networks and Convolutional neural networks**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
 - **Capsules**: 
   * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
@@ -73,12 +73,12 @@ ___
 
 ___
 
-8- <span style="font-size:1em;">Week 8 (March 1): **Reading week**</span> 
+8- <span style="font-size:1em;">Week 8 (February 28): **Reading week**</span> 
 - No lectures.
 
   
 ____
-9- <span style="font-size:1em;">Week 9 (March 8): **Unsupervised learning**</span> 
+9- <span style="font-size:1em;">Week 9 (March 7): **Unsupervised learning**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
 - **Capsules**: 
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
@@ -93,7 +93,7 @@ ____
 - No lectures -->
 
 ___
-10- <span style="font-size:1em;">Week 10 (March 15): **Parallel computational paradigms for large-scale data processing & Project meetings**</span>
+10- <span style="font-size:1em;">Week 10 (March 14): **Parallel computational paradigms for large-scale data processing & Project meetings**</span>
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale22.pdf)
 - **Capsules**: 
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
@@ -101,7 +101,7 @@ ___
   * [Spark](https://www.youtube.com/watch?v=4gOdejqyHng) [17:37]
 
 ___
-11- <span style="font-size:1em;">Week 11 (March 22): **Recommender systems**</span>
+11- <span style="font-size:1em;">Week 11 (March 21): **Recommender systems**</span>
 - **Case Study**: [Case Presentation and class execution](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
 - **Required preparation for the case study**: Answer to Question 1 must be submitted by March 22nd, 11:00am, via Remise de Travaux on ZoneCours. This is an indvidual submission. All students must make the submission. 
 - **Lecture**: [slides](lecture_files/case_Decathlon-diapos-Pre-Class.pdf)
@@ -109,7 +109,7 @@ ___
 
 
 ___
-12- <span style="font-size:1em;">Week 12-1 (April 2): **Sequential decision making I**</span> 
+12- <span style="font-size:1em;">Week 12-1 (March 28): **Sequential decision making I**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl.pdf)
 - **Capsules**: 
   * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
@@ -119,7 +119,7 @@ ___
 - **Reading**: Optional: [Demo of the policy iteration algorithm](http://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
 
 ___
-13- <span style="font-size:1em;">Week 12-2 (April 5): **Sequential decision making II**</span> 
+13- <span style="font-size:1em;">Week 12-2 (April 4): **Sequential decision making II**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
 - **Capsules**: 
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
@@ -128,10 +128,10 @@ ___
 - **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](http://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
 
 ___
-14- <span style="font-size:1em;">Week 15 (April 12): **Class Project presentation**</span>
+14- <span style="font-size:1em;">Week 15 (April 11): **Class Project presentation**</span>
 
 ___
-**Final exam: April 28**
+**Final exam: April 29**
 
 Final exam covers all the topics taught in the course (capsules, required readings, new concepts introduced in hands-on exercises). You will be examined on the conceptual level. In other words, you will not be asked to generate an algorithm. However, you need to have a solid understanding of the machine learning methods and their implementation concepts to answer the questions (see the sample exams below). 
 
