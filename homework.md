@@ -27,7 +27,7 @@ The assignment counts for 20% of your final grade.
 - Code will be graded according to style in addition to functionality.
 
 ### Deadline & Submission
-- The assignment is due **February 28, 2024**.
+- The assignment is due **February 28, 2025**.
 - Upload the answers (a PDF including the colab link) to ZoneCours/Remise de travaux.
 - Late submission policy with 10% penalty per day.
 
