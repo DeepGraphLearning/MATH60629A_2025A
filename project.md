@@ -20,7 +20,7 @@ This project will be worth 40% of your final grade. You must work in teams of th
 ### Project Individual Report (1%)
 
 ## Timeline
-- [Team Registration](https://hecmtl-my.sharepoint.com/:x:/g/personal/dena_firoozi_hec_ca/EYseVK_6EJdHtI3BRsh5r78BKR8RrGL-a_pUP3uHMEN9ow?e=RRMieo). Teams of 3 or 4 students. Due: **January 31, 2025, by the end of the day EDT.**  
+- [Team Registration](https://hecmtl-my.sharepoint.com/:x:/g/personal/dena_firoozi_hec_ca/EYseVK_6EJdHtI3BRsh5r78BqVxVl3FPKeBOoGni_eMubw?e=uvnbQC). Teams of 3 or 4 students. Due: **January 31, 2025, by the end of the day EDT.**  
 - Study plan, due: **between February 14-28, 2025 by 11:55pm** The earlier you submit your study plan the earlier you can get feedback and start working on your project. Upload the PDF of the proposal to ZoneCours/Remise de travaux) by the head of the team (one upload per each team).
 - Project meeting: **February 21 to March 7, 2025**. If you want to meet earlier than March 7, you must submit your study plan a week ahead of the meeting date. 
 - Project Presentation, due: **April 8, 2025 (12:00 pm EDT)**. Upload the PDF version of your poster/slides to ZoneCours/Remise de travaux by the head of the team (*one upload per each team*).
@@ -44,7 +44,7 @@ Your study should involve reading and understanding some background material. Yo
 - The source of the dataset you will be using,
 - The tentative machine learning methods you plan to apply to answer your question,
 - The questions or aspects you would like to discuss during our meeting,
-- A sentence indicating if you would like to meet earlier than March 15th.  
+<!--- A sentence indicating if you would like to meet earlier than March 15th. -->  
 
 
 **Presentation**: This is a group presentation, with a set of slides or a poster prepared. We will decide at random the order of the presentations.
