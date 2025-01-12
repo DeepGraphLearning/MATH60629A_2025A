@@ -32,7 +32,7 @@ The assignment counts for 20% of your final grade.
 - Late submission policy with 10% penalty per day.
 
 ### Questions
-[See here]()
+[See here](https://colab.research.google.com/drive/1DJrgqBZq6nrPGlQe4YkgOSfGgZZEBkVC?usp=sharing)
 
 
 
