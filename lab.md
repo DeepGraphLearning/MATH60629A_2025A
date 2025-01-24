@@ -25,7 +25,7 @@ ___
 3- Week 3 (January 24): **Supervised learning algorithms** 
 - [Class summary](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_supervised_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/denafiroozi/MATH60629/blob/master/week3-Supervised/Supervised_questions_new.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.py) AND 2) [utils.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/utils.py)
-- [Solution (colab)](https://colab.research.google.com/github/denafiroozi/MATH60629/blob/master/week3-Supervised/Supervised_answers_new.ipynb)
+<!-- - [Solution (colab)](https://colab.research.google.com/github/denafiroozi/MATH60629/blob/master/week3-Supervised/Supervised_answers_new.ipynb) -->
 
 ___
 
