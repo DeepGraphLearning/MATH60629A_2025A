@@ -84,8 +84,9 @@ ____
 8- <span style="font-size:1em;">Week 8 (February 28): **Reading week**</span> 
 - No lectures.
 
- __
+___
 9- <span style="font-size:1em;">Week 9 (March 7): **Project meetings**</span> 
+
 
 
 ___
