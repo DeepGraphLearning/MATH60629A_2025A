@@ -39,7 +39,7 @@ Your study should involve reading and understanding some background material. Yo
 
 <!--**Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2020. Let me know as soon as possible if you are interested in this.-->
 
-**Study plan**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to ZoneCours/Remise de travaux. I will meet with each group to discuss study plans during the lecture of **March 15, 2024**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. In your study plan you must include: 
+**Study plan**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to ZoneCours/Remise de travaux. I will meet with each group to discuss study plans during the lecture of **March 7, 2025**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. In your study plan you must include: 
 - The question you aim to answer,
 - The source of the dataset you will be using,
 - The tentative machine learning methods you plan to apply to answer your question,
