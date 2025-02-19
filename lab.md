@@ -64,7 +64,9 @@ ___
 
 ___
 9- <span style="font-size:1em;">Week 9 (March 7): **Project meetings**</span> 
-* No hands-on    
+* No hands-on
+
+  
 ___
 10- Week 10 (March 14): **Parallel computational paradigms for large-scale data processing & Project Meetings**
 - [Class summary (Review)](lecture_files/summary-midterm%20(1).pdf)
