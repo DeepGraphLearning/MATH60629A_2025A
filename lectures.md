@@ -121,12 +121,11 @@ ___
 - **Case Study**: [Case Presentation and class execution](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
 - **Required preparation for the case study**: Answer to Question 1 must be submitted by March 21st, 11:00am, via Remise de Travaux on ZoneCours. This is an indvidual submission. All students must make the submission. 
 - **Lecture**: [Slides](lecture_files/case_Decathlon-diapos-Pre-Class.pdf)
-- **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
 
 ___
 12- <span style="font-size:1em;">Week 13 (2025-11-18): **Attention and Transformers**</span> 
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_transformers.pdf)
-- **Reading**: [An Introduction to Transformers](https://arxiv.org/pdf/2304.10557) (from Richard E. Turner)
+- **Reading**: Complementary reading: [An Introduction to Transformers](https://arxiv.org/pdf/2304.10557) (by Richard E. Turner)
 
 ___
 13- <span style="font-size:1em;">Week 14 (2025-11-25): **Modern generative models**</span> 
