@@ -1,4 +1,4 @@
-| [MATH60629A](main.md) | [Lectures](lectures.md) | [Lab](lab.md) | [Project](project.md) | [Office hours](office_hr.md)
+| [MATH60629A](main.md) | [Lectures](lectures.md) | [Project](project.md) | [Office hours](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH60629A): Autumn 2025
 
 This project will be worth 30% of your final grade. You must work in teams of two or three.
