@@ -9,4 +9,4 @@ For a short introductory video to Piazza check [here](https://www.youtube.com/wa
 The information you will need to activate your account is posted on ZoneCours in an announcement entitled Piazza.  
 
 ### Office Hours 
-The TA for this course is Hair Parra. We will have flexible office hours. If you would like to meet with me or the TA to discuss your questions, you only need to send us a private message on Piazza. We will then schedule a meeting at a convenient time. It is preferable to first post your questions on Piazza, and then arrange a meeting if necessary. 
+The TA for this course is Xinyu Yuan and Zhihao Zhan. We will have flexible office hours. If you would like to meet with me or the TA to discuss your questions, you only need to send us a private message on Piazza. We will then schedule a meeting at a convenient time. It is preferable to first post your questions on Piazza, and then arrange a meeting if necessary. 
