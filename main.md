@@ -10,9 +10,9 @@ The plan is to survey different machine learning techniques (supervised, unsuper
 ## Course Format
 This course will be given as a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom). It is an instructional strategy where students learn the material before they come to the class. The material will be a mix of readings and video capsules. Class time is reserved for more active activities such as problem solving, demonstrations, and questions-answering. In addition, class time will contain a short summary of the week's material.
 
-## Time & room
-- Fridays 12:00 pm - 15:00 pm
-- room: [Salle Groupe Cholette](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)
+## Time & Room
+- Tuesdays 3:30 pm - 6:30 pm
+- Room: C-Ste-Cath, Groupe Cholette
 
 <!--## Feedback-->
 <!-- Please use this [form](https://forms.gle/VVNQogf2fBi9tKq38) to provide feedback about the course.-->
@@ -33,27 +33,26 @@ Further a machine-learning tutorial using python will be provided on [week #4](l
 ## Grading
 Your final score for the course will be computed using the following weights:
 
-- [Assignment](homework.md) (20%)
-- [Capsule quizzes](homework.md)  (10%)
-- [Project](project.md) (30%)
-- [Project presentation](project.md) (10%)
-- Final Exam (30%)
-- Participation bonus (5%)
+1. Homework (20%)
+2. Project (30%)
+3. Project presentation (10%)
+4. Final Exam (30%)
+    - Date: December 16th, Time: 1:30 pm - 4:30 pm,
+    - Documentation allowed: cheat sheet (standard size 8.5 x 11, double sided), calculator.
+    - Material covered: Everything covered in class + required lectures.
+    - Past exams: [Fall 2018](https://www.cs.toronto.edu/~lcharlin/courses/60629/exam_80629_A18.pdf), [Fall 2020](https://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20.pdf) [(Solutions)](https://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20_solutions.pdf)
+5. Capsule summaries (10%)
+    - Provide a short summary (10 to 15 lines of text in the form) of 10 capsules throughout the semester.
+    - The summary of a capsule must be provided before its class (e.g., a summary of capsule on "Learning Problems" must be submitted by 09/02).
 
 ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy in case of fraud or plagiarism. If an infraction is found, the professor is required to report to the director of the department. An administrative procedure is then automatically triggered with the following consequences: the offense is noted in your file, and a sanction is decided (which can be serious and go to dismissal in case of recidivism). It is important that you do the work yourself!
 
 ## Q & A 
-### Piazza
-We will be using [Piazza](https://piazza.com/) for class discussions. The system is designed so that you can get help quickly and efficiently from your classmates and myself. Rather than emailing your questions, I invite you to post them on Piazza. The TA and I will check your questions regularly and respond to them. You can post private questions to us or post your questions to the class anonymously (in this case your identity will only be visible to me). It is preferable to post your questions publicly so that everyone can see them and contribute to the discussion. 
-
-For a short introductory video to Piazza check [here](https://www.youtube.com/watch?v=tqGummy1Be4&list=PLEOX0FOixqJ4gJEWOelsBJBQ1mD05ZUKC).
-
-The information you will need to activate your account is posted on ZoneCours in an announcement entitled Piazza.  
+### Discord
+We will be using Discord ([https://discord.gg/Jz8pX45g](https://discord.gg/Jz8pX45g)) for class discussions. The system is designed so that you can get help quickly and efficiently from your classmates and myself. Rather than emailing your questions, I invite you to post them on Discord. The TA and I will check your questions regularly and respond to them. You can post private questions to us or post your questions to the class anonymously (in this case your identity will only be visible to me). It is preferable to post your questions publicly so that everyone can see them and contribute to the discussion. 
 
 ### Office Hours 
-The TA for this course is Xinyu Yuan and Zhihao Zhan. We will have flexible office hours. If you would like to meet with me or the TA to discuss your questions, you only need to send us a private message on Piazza. We will then schedule a meeting at a convenient time. It is preferable to first post your questions on Piazza, and then arrange a meeting if necessary. 
-
-
+The TA for this course is Xinyu Yuan and Zhihao Zhan. We will have flexible office hours. If you would like to meet with me or the TA to discuss your questions, you only need to send us a private message on Discord. We will then schedule a meeting at a convenient time. It is preferable to first post your questions on Discord, and then arrange a meeting if necessary. 
 
 ## References
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/), Second Edition Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome, 2009 [ESL]
@@ -67,4 +66,4 @@ The TA for this course is Xinyu Yuan and Zhihao Zhan. We will have flexible offi
 9. [Advanced Analytics with Spark](https://www.oreilly.com/library/view/advanced-analytics-with/9781491972946/). O'Reilly. Second Edition. 2017
 
 ## Acknowledgement
-I thank [Prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/courses/80-629/) for sharing his slides and video capsules with me. The majority of the material of this course are based on the previous editions that have been thaugh by him and [Prof. Golnoosh Farnadi](https://gfarnadi.github.io/).
+I thank [Prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/courses/80-629/) for sharing his slides and video capsules with me. The majority of the material of this course are based on the previous editions that have been taught by him and [Prof. Golnoosh Farnadi](https://gfarnadi.github.io/). I also thank [Prof. Dena Firoozi](https://denafiroozi.github.io/DF/) for sharing her design of this course website.
