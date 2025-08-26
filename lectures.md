@@ -4,12 +4,12 @@
 ## Lecture Schedule
 ___
 1- <span style="font-size:1em;">Week 1 (2025-08-26): **Class introduction and math review**</span>
-- **Lecture**: [Slides](lecture_files_2025a/Week1-Intro.pdf)
+- **Lecture**: [Slides-Intro](lecture_files_2025a/Week1-Intro.pdf), [Slides-Math](lecture_files_2025a/Week1-Maths.pdf)
 - **Reading**: 
   * Required reading: [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
   * Suggested reading: [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-  * For Math review: Check [here](lecture_files_2025a/Week1-Maths.pdf)
-
+  * For Math review: Check [here](https://www.cs.toronto.edu/~lcharlin/courses/60629/math_resources.html)
+ 
 ___
 2- <span style="font-size:1em;">Week 2 (2025-09-02): **Machine learning fundamentals**</span> 
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_ml-fundamentals.pdf)
