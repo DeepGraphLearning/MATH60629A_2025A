@@ -6,8 +6,7 @@ We will be using Discord ([https://discord.gg/Jz8pX45g](https://discord.gg/Jz8pX
 
 ### Office Hours
 
-Tuesdays 2:00 pm - 3:00 pm
-
-Room: 4.805 CSC Building
+- Tuesdays 2:00 pm - 3:00 pm
+- Room: 4.805 CSC Building
 
 The TA for this course is Xinyu Yuan and Zhihao Zhan. We will also have flexible office hours. If you would like to meet with me or the TA to discuss your questions, you only need to send us a private message on Discord. We will then schedule a meeting at a convenient time. It is preferable to first post your questions on Discord, and then arrange a meeting if necessary. 
