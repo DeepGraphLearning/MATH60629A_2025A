@@ -44,6 +44,7 @@ Your final score for the course will be computed using the following weights:
 5. Capsule summaries (10%)
     - Provide a short summary (10 to 15 lines of text in the form) of 10 capsules throughout the semester.
     - The summary of a capsule must be provided before its class (e.g., a summary of capsule on "Learning Problems" must be submitted by 09/02).
+    - Post your summaries with [this form](https://docs.google.com/forms/d/e/1FAIpQLSfWPL-xJ7r3YHu4bKliShm4FlLsQ0gMIqDLeSqs_NQJt9HHhA/viewform).
 
 ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy in case of fraud or plagiarism. If an infraction is found, the professor is required to report to the director of the department. An administrative procedure is then automatically triggered with the following consequences: the offense is noted in your file, and a sanction is decided (which can be serious and go to dismissal in case of recidivism). It is important that you do the work yourself!
 
