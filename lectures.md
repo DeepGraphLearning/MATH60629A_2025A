@@ -101,14 +101,14 @@ ___
 
 ____
 
-8- <span style="font-size:1em;">Week 9 (2025-10-21): **Reading week**</span> 
+9- <span style="font-size:1em;">Week 9 (2025-10-21): **Reading week**</span> 
 - No lectures.
 
 ___
-9- <span style="font-size:1em;">Week 10 (2025-10-28): **Project meetings**</span> 
+10- <span style="font-size:1em;">Week 10 (2025-10-28): **Project meetings**</span> 
 
 ___
-10- <span style="font-size:1em;">Week 11 (2025-11-04): **Parallel computational paradigms for large-scale data processing & Project meetings**</span>
+11- <span style="font-size:1em;">Week 11 (2025-11-04): **Parallel computational paradigms for large-scale data processing & Project meetings**</span>
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale22.pdf)
 - **In-class material**: [Summary](https://www.cs.toronto.edu/~lcharlin/courses/60629/summary-midterm.pdf)
 - **Capsules**: 
@@ -117,21 +117,21 @@ ___
   * [Spark](https://www.youtube.com/watch?v=4gOdejqyHng) [17:37]
 
 ___
-11- <span style="font-size:1em;">Week 12 (2025-11-11): **Recommender systems**</span>
+12- <span style="font-size:1em;">Week 12 (2025-11-11): **Recommender systems**</span>
 - **Case Study**: [Case Presentation and class execution](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
 - **Required preparation for the case study**: Answer to Question 1 must be submitted by March 21st, 11:00am, via Remise de Travaux on ZoneCours. This is an indvidual submission. All students must make the submission. 
 - **Lecture**: [Slides](lecture_files/case_Decathlon-diapos-Pre-Class.pdf)
 
 ___
-12- <span style="font-size:1em;">Week 13 (2025-11-18): **Attention and Transformers**</span> 
+13- <span style="font-size:1em;">Week 13 (2025-11-18): **Attention and Transformers**</span> 
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_transformers.pdf)
 - **Reading**: Complementary reading: [An Introduction to Transformers](https://arxiv.org/pdf/2304.10557) (by Richard E. Turner)
 
 ___
-13- <span style="font-size:1em;">Week 14 (2025-11-25): **Modern generative models**</span> 
+14- <span style="font-size:1em;">Week 14 (2025-11-25): **Modern generative models**</span> 
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_generatifs.pdf)
 
 ___
-14- <span style="font-size:1em;">Week 15 2025-12-02): **Class Project presentation**</span>
+15- <span style="font-size:1em;">Week 15 2025-12-02): **Class Project presentation**</span>
 
 
