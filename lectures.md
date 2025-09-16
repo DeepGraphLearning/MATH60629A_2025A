@@ -67,7 +67,7 @@ ___
   * Reference: Chapter 11 of the Elements of Statistical Learning.
 
 ___
-6- <span style="font-size:1em;">Week 6 (2025-09-30): **Reading week**</span> 
+6- <span style="font-size:1em;">Week 6 (2025-09-30)</span> 
 - No lectures.
 
 ___
