@@ -132,6 +132,6 @@ ___
 - **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_generatifs.pdf)
 
 ___
-15- <span style="font-size:1em;">Week 15 2025-12-02): **Class Project presentation**</span>
+15- <span style="font-size:1em;">Week 15 (2025-12-02): **Class Project presentation**</span>
 
 
