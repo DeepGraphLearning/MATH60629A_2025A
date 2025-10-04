@@ -35,14 +35,15 @@ Your final score for the course will be computed using the following weights:
 
 1. Homework (20%)
     - [PDF](Assignment_60629A_F25.pdf), [colab](https://colab.research.google.com/drive/1qO7SJPc7XJSrgjh_5Cq17f9ejtJG_lHi?usp=sharing)
-3. Project (30%)
-4. Project presentation (10%)
-5. Final Exam (30%)
+2. Project (30%)
+    - [Instruction](Instructions_on_Course_Projects_ML1.pdf)
+3. Project presentation (10%)
+4. Final Exam (30%)
     - Date: December 16th, Time: 1:30 pm - 4:30 pm,
     - Documentation allowed: cheat sheet (standard size 8.5 x 11, double sided), calculator.
     - Material covered: Everything covered in class + required lectures.
     - Past exams: [Fall 2018](https://www.cs.toronto.edu/~lcharlin/courses/60629/exam_80629_A18.pdf), [Fall 2020](https://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20.pdf) [(Solutions)](https://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20_solutions.pdf)
-6. Capsule summaries (10%)
+5. Capsule summaries (10%)
     - Provide a short summary (10 to 15 lines of text in the form) of 10 capsules throughout the semester.
     - The summary of a capsule must be provided before its class (e.g., a summary of capsule on "Learning Problems" must be submitted by 09/02).
     - Post your summaries with [this form](https://docs.google.com/forms/d/e/1FAIpQLSfWPL-xJ7r3YHu4bKliShm4FlLsQ0gMIqDLeSqs_NQJt9HHhA/viewform).
