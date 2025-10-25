@@ -35,7 +35,7 @@ Your final score for the course will be computed using the following weights:
 
 1. Homework (20%)
     - [hw1 PDF](Assignment_60629A_F25.pdf), [hw1 colab](https://colab.research.google.com/drive/1qO7SJPc7XJSrgjh_5Cq17f9ejtJG_lHi?usp=sharing)
-    - [hw2 PDF (no colab)](Homework__60629__F2025.pdf)
+    - [hw2 PDF](Homework__60629__F2025.pdf), [hw2 colab](https://colab.research.google.com/drive/1K03OdwGmtz4pTl6LF4uvVSpJwbO4hKXL?usp=sharing)
 2. Project (30%)
     - [Instruction](Instructions_on_Course_Projects_ML1.pdf)
 3. Project presentation (10%)
