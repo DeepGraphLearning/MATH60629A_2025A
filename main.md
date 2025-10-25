@@ -34,7 +34,8 @@ Further a machine-learning tutorial using python will be provided on [week #4](l
 Your final score for the course will be computed using the following weights:
 
 1. Homework (20%)
-    - [PDF](Assignment_60629A_F25.pdf), [colab](https://colab.research.google.com/drive/1qO7SJPc7XJSrgjh_5Cq17f9ejtJG_lHi?usp=sharing)
+    - [hw1 PDF](Assignment_60629A_F25.pdf), [hw1 colab](https://colab.research.google.com/drive/1qO7SJPc7XJSrgjh_5Cq17f9ejtJG_lHi?usp=sharing)
+    - [hw2 PDF (no colab)](Homework__60629__F2025.pdf)
 2. Project (30%)
     - [Instruction](Instructions_on_Course_Projects_ML1.pdf)
 3. Project presentation (10%)
