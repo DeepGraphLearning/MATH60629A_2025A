@@ -118,8 +118,6 @@ ___
 
 ___
 12- <span style="font-size:1em;">Week 12 (2025-11-11): **Recommender systems**</span>
-- **Case Study**: [Case Presentation and class execution](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
-- **Required preparation for the case study**: Answer to Question 1 must be submitted by March 21st, 11:00am, via Remise de Travaux on ZoneCours. This is an indvidual submission. All students must make the submission. 
 - **Lecture**: [Slides](lecture_files/case_Decathlon-diapos-Pre-Class.pdf)
 
 ___
