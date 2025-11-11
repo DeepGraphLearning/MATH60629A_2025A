@@ -118,7 +118,7 @@ ___
 
 ___
 12- <span style="font-size:1em;">Week 12 (2025-11-11): **Recommender systems**</span>
-- **Lecture**: [Slides](lecture_files/case_Decathlon-diapos-Pre-Class.pdf)
+- **Lecture**: [Slides](lecture_files_2025a/slides_recsys_2025F.pdf )
 
 ___
 13- <span style="font-size:1em;">Week 13 (2025-11-18): **Attention and Transformers**</span> 
